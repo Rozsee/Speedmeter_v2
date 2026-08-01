@@ -1,6 +1,8 @@
 # Speedmeter_v2
 2nd version of Speedmeter used in my old Toyota.
-HW:  RPI2040 Zero board (waveshare), sparkfun OBD to UART breakout board
+HW:  
+  - RPI2040 Zero board (waveshare)
+  - Sparkfun OBD to UART breakout board
 SW: MicroPython
 
 Features:
