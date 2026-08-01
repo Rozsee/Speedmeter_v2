@@ -8,7 +8,7 @@ HW:
 SW: MicroPython
 
 Features:
-  - Continous polling of speed and motor rpm values
+  - Continous polling of speed and motor rpm values via OBD port
   - Speed value is displayed by special big digits 
   (idea source: https://hackaday.com/2023/04/07/spice-up-the-humble-16x2-lcd-with-big-digits/)
   - Manual brightness adjustment
