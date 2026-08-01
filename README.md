@@ -4,6 +4,7 @@ HW:
   - RPI2040 Zero board (waveshare)
   - Sparkfun OBD to UART breakout board
   - 2x20 character alphanumeric VFD display from an old cashmachine
+
 SW: MicroPython
 
 Features:
